@@ -1,4 +1,4 @@
-package olymp.yandex.training.two.hm3.c;
+package olymp.yandex.training.two.hm3.a;
 
 import java.util.Arrays;
 import java.util.HashSet;
